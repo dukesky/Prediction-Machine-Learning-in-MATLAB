@@ -19,7 +19,7 @@
 > Overview:
 > Dataset:
 > Applied Machine Learning method: </p>
-![Bank_overview](https://github.com/dukesky/EE559/tree/master/fig/bank_overview.jpg)
+![Bank_overview](fig/bank_overview.jpg)
 
 
 ## 2.Predict online news popularity
