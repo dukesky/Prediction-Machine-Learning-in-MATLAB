@@ -18,7 +18,7 @@
 ## 1.Bank Investiment Prediction
 > Overview:
 > Dataset:
-> Applied Machine Learning method:
+> Applied Machine Learning method: </p>
 ![Bank_overview](https://github.com/dukesky/EE559/tree/master/fig/bank_overview.jpg)
 
 
