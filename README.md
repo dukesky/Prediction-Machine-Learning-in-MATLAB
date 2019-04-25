@@ -4,8 +4,8 @@
 
 ##### Table of Contents  
 - [Introduction](#Introduction)  
-- [1.bank investiment prediction](#1.Bank-Investiment-Prediction) 
-- [2.online news popularity prediction](#2.Predict-online-news-feed) 
+- [1.Bank Investiment Prediction](#1.Bank-Investiment-Prediction) 
+- [2.Online News Feed Prediction](#2.Online-News-Feed-Prediction) 
 - [Others](#others)
 
 
@@ -22,7 +22,7 @@
 ![Bank_overview](fig/bank_overview.jpg)
 
 
-## 2.Predict online news feed
+## 2.Online News Feed Prediction
 > Overview:              </p>
 > Dataset:                     </p>
 > Applied Machine Learning method:           </p>
