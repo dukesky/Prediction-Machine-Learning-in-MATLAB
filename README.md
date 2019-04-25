@@ -4,8 +4,8 @@
 
 ##### Table of Contents  
 - [Introduction](#Introduction)  
-- [1.bank investiment prediction](#1.Bank-investiment-prediction) 
-- [2.online news popularity prediction](#2.predict-online-news-popularity) 
+- [1.bank investiment prediction](#1.Bank-Investiment-Prediction) 
+- [2.online news popularity prediction](#2.Predict-online-news-feed) 
 - [Others](#others)
 
 
@@ -16,16 +16,16 @@
  
 
 ## 1.Bank Investiment Prediction
-> Overview:
-> Dataset:
+> Overview:                        </p>
+> Dataset:                         </p>
 > Applied Machine Learning method: </p>
 ![Bank_overview](fig/bank_overview.jpg)
 
 
-## 2.Predict online news popularity
-> Overview:
-> Dataset:
-> Applied Machine Learning method:
+## 2.Predict online news feed
+> Overview:              </p>
+> Dataset:                     </p>
+> Applied Machine Learning method:           </p>
 
 ## Others
-Thank you for interest, you can view our report [here](https://github.com/dukesky/EE559/tree/master/support_material/report.pdf)
+Thank you for interest, you can view our report [here](support_material/report.pdf)
