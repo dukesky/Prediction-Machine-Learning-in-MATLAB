@@ -2,8 +2,8 @@
 
 ##### Table of Contents  
 - [Introduction](#Introduction)  
-- [1.Bank Investiment Prediction](#1.Bank Investiment Prediction) 
-- [2.Online News Feed Prediction](#2.Online News Feed Prediction) 
+- [1.Bank Investiment Prediction](#1.Bank-Investiment-Prediction) 
+- [2.Online News Feed Prediction](#2.Online-News-Popularity-Prediction) 
 - [Others](#Others)
 
 
@@ -30,7 +30,7 @@ deposit at a certain bank after receiving a marketing call.</p>
 ![Bank_overview](fig/bank_overview.jpg)
 
 
-# 2.Online News Feed Prediction
+# 2.Online News Popularity Prediction
 > Overview:
 * the dataset provides several attributes from different articles
 published by Mashable. Your goal is to predict if an article is popular or not. The
