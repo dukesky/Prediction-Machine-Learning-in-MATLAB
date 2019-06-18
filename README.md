@@ -2,8 +2,8 @@
 
 ##### Table of Contents  
 - [Introduction](#Introduction)  
-- [1.Bank Investiment Prediction](#1.Bank-Investiment-Prediction) 
-- [2.Online News Feed Prediction](#2.Online-News-Feed-Prediction) 
+- [1.Bank Investiment Prediction](#1.Bank Investiment Prediction) 
+- [2.Online News Feed Prediction](#2.Online News Feed Prediction) 
 - [Others](#Others)
 
 
@@ -46,5 +46,5 @@ labels (popular/ not popular) are based on the number of shares that article rec
 * Neural Network</p>
 </p>
 
-#Others
+# Others 
 Thank you for interest, you can view our report [here](support_material/report.pdf)
